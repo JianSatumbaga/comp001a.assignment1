@@ -1,2 +1,2 @@
 author:jiansatumbaga
-purpose:forcomp001a
+purpose:forcomp001assignment
